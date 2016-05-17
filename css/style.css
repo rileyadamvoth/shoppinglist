@@ -1,0 +1,29 @@
+body {
+	background-color: black;
+	background-image: url("../images/pinkybrainbackground.jpg");
+	background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    min-height: 800px;
+    font-family: Amatic, sans-serif;
+}
+.container {
+	margin: 10%;
+	padding: 20px;
+	min-width: 20%;
+	float: left;
+	background-color: white;
+	font-size: 2rem;
+}
+h1 {
+	color: #EF3F41;
+	font-size: 3rem;
+}
+input {
+	width: 86%;
+}
+#add {
+	background-color: #EF3F41;
+	border: none;
+	width: 10%;
+}
